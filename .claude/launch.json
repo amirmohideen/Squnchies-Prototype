@@ -3,9 +3,15 @@
   "configurations": [
     {
       "name": "squnchies",
+      "url": "http://localhost:8642",
+      "port": 8642
+    },
+    {
+      "name": "squnchies-start",
       "runtimeExecutable": "node",
       "runtimeArgs": ["serve.js"],
-      "port": 8642
+      "port": 8642,
+      "autoPort": true
     }
   ]
 }
