@@ -6,7 +6,7 @@
 
 *Built on an award-winning game design document from Meta's $10,000 Horizon Creator Competition — I present Squnchies: the playable thing that document described.*
 
-<img src="docs/readme/title.jpg" width="300" alt="The Squnchies title screen: six squishy characters huddled together under the logo"> <img src="docs/readme/calm-isle.jpg" width="300" alt="Calm Isle at night — a lighthouse on a small island, three Squnchies defending it, upgrade chips along the bottom">
+<img src="docs/readme/title.jpg" width="280" alt="The Squnchies title screen: six squishy characters huddled together under the logo"> <img src="docs/readme/three-lanterns.webp" width="280" alt="The Three Lanterns — three lit lighthouses on a triangular isle, five Squnchies defending it">
 
 ### ▶︎ [**Play it in your browser**](https://amirmohideen.com/squnchies/)
 
@@ -28,6 +28,10 @@ And you don't kill anything. A Gloop filled with light stops being a Gloop. **Be
 
 ## How it plays
 
+<div align="center">
+<img src="docs/readme/tutorial.webp" width="270" alt="Tutorial step 1 of 13: a pointing hand taps Blox, the blue box"> <img src="docs/readme/frost-shoal.webp" width="270" alt="Frost Shoal under attack — two lighthouses, four Squnchies, Gloops closing in">
+</div>
+
 | Do this | And |
 |---|---|
 | Tap a Squnchie | pick it |
@@ -39,29 +43,39 @@ And you don't kill anything. A Gloop filled with light stops being a Gloop. **Be
 | Pinch | zoom too |
 | Tap a Squnchie in Upgrades | spend Spark ⚡ to grow it |
 
+A 13-step tutorial walks you through all of it on the first isle, and it's a checkbox — **Tutorial in Level 1** — so anyone replaying can switch it off.
+
 Light that you pour into a Gloop comes back as **Spark ⚡**. Spark does not buy *more* Squnchies — it buys a **bigger** one. Every squad is a single Squnchie growing **Base → Pro → Max** (70 ⚡, then 150 ⚡), swelling in size, reach and punch as it goes. Three friends who grow, not a crowd you accumulate.
 
 Positioning is real: tactics run on a graph of zones, not a grid, and where a Squnchie stands decides what it can defend.
 
 ## The cast
 
+<div align="center">
+<img src="docs/readme/cast.webp" width="300" alt="The pause menu, listing every Squnchie and its charged attack">
+</div>
+
 Three start with you:
 
 | | Squnchie | Role | Charged attack |
 |---|---|---|---|
-| 🟦 | **Blox** | balanced defender | **Light Burst** — a stunning ring, and it fans into 2 pulses at Pro, 3 at Max |
-| 🟢 | **Halo** | support & purification | **Hush Cloud** — a lingering cloud that heals friends and burns ink |
-| 🟡 | **Sparky** | ranged light | **Spark Beam** — a long lance of light down the line you swipe |
+| 🟦 | **Blox** | balanced defender | **Light Burst** — rings of light all around him, and it fans into 2 pulses at Pro, 3 at Max |
+| 🟢 | **Halo** | support & purification | **Hush Cloud** — a soft cloud that heals Squnchies and hurts Gloops |
+| 🟡 | **Sparky** | ranged light | **Spark Beam** — a long beam straight ahead, reaching further from high ground |
 
 Three you have to earn:
 
 | | Squnchie | Won from | Charged attack |
 |---|---|---|---|
-| 🍦 | **Swirl** | The Swirl | **Sugar Cyclone** |
-| 🧸 | **Teddy** | Teddy | **Teddy Roar** — a column of force falling out of the sky |
+| 🍦 | **Swirl** | The Swirl | **Sugar Cyclone** — a spinning wind that walks forward |
+| 🧸 | **Teddy** | Teddy | **Teddy Roar** — rings of force falling out of the sky |
 | 🐱 | **Mewl** | The Mewl | **Ring Rush** |
 
 ## The voyage
+
+<div align="center">
+<img src="docs/readme/travel.webp" width="270" alt="Sailing to the next isle, carrying your Spark and your roster"> <img src="docs/readme/voyage-done.webp" width="270" alt="The voyage is done — Gloops rescued, light remaining, isles saved">
+</div>
 
 Three isles, three waves each — easy, medium, boss. Your squads and your Spark travel with you.
 
@@ -95,6 +109,10 @@ What it does *not* contain is the interesting part:
 - **Two dependencies**, both vendored into the repo: [Three.js](https://threejs.org) r0.180.0 and the [Fredoka](https://fonts.google.com/specimen/Fredoka) typeface.
 
 Everything is on relative paths, so it runs happily from a subdirectory. The 780-tree forest is a single `InstancedMesh` — two draw calls.
+
+## What's next
+
+More isles and more Squnchies to rescue. The voyage ends on a *coming soon*, not a full stop.
 
 ## Repo layout
 
