@@ -6,7 +6,7 @@
 
 *Built on an award-winning game design document from Meta's $10,000 Horizon Creator Competition — I present Squnchies: the playable thing that document described.*
 
-<img src="docs/readme/title.jpg" width="280" alt="The Squnchies title screen: six squishy characters huddled together under the logo"> <img src="docs/readme/three-lanterns.webp" width="280" alt="The Three Lanterns — three lit lighthouses on a triangular isle, five Squnchies defending it">
+<img src="docs/readme/title.webp" width="217" alt="The Squnchies title screen: six squishy characters huddled together under the logo"> <img src="docs/readme/three-lanterns.webp" width="270" alt="The Three Lanterns — three lit lighthouses on a triangular isle, five Squnchies defending it">
 
 ### ▶︎ [**Play it in your browser**](https://amirmohideen.com/squnchies/)
 
