@@ -8,7 +8,7 @@
 
 <img src="docs/readme/title.jpg" width="300" alt="The Squnchies title screen: six squishy characters huddled together under the logo"> <img src="docs/readme/calm-isle.jpg" width="300" alt="Calm Isle at night — a lighthouse on a small island, three Squnchies defending it, upgrade chips along the bottom">
 
-### ▶︎ [**Play it in your browser**](https://amirmohideen.github.io/squnchies/)
+### ▶︎ [**Play it in your browser**](https://amirmohideen.com/squnchies/)
 
 *Best on a phone, held in portrait, one thumb.*
 
