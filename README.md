@@ -4,7 +4,7 @@
 
 **Protect the light, rescue the lost**
 
-*Built on an award-winning game design document from Meta's $10,000 Horizon Creator Competition — I present Squnchies: the playable thing that document described.*
+*Meta awarded this design $10,000 in its Horizon Creator Competition. Squnchies is what it looks like when you play it.*
 
 <img src="docs/readme/title.webp" width="217" alt="The Squnchies title screen: six squishy characters huddled together under the logo"> <img src="docs/readme/three-lanterns.webp" width="270" alt="The Three Lanterns — three lit lighthouses on a triangular isle, five Squnchies defending it">
 
