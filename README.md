@@ -4,7 +4,7 @@
 
 **Protect the light, rescue the lost**
 
-*Built on the game design document that won Meta's $10,000 Horizon Creator Competition — I present Squnchies: the playable thing that document described.*
+*Built on an award-winning game design document from Meta's $10,000 Horizon Creator Competition — I present Squnchies: the playable thing that document described.*
 
 <img src="docs/readme/title.jpg" width="300" alt="The Squnchies title screen: six squishy characters huddled together under the logo"> <img src="docs/readme/calm-isle.jpg" width="300" alt="Calm Isle at night — a lighthouse on a small island, three Squnchies defending it, upgrade chips along the bottom">
 
